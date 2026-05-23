@@ -1,15 +1,15 @@
 
 
-<img src="https://cdn.dribbble.com/userupload/22007674/file/original-8edd3cfa1b2aed40d8272d9df59c44d2.gif" alt="MasterHead" width="100%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RuZnhsYXRhamMxcmtpd2VkbGI4eXMwbG80Y2QxdTUwenB2eXplOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA593kO0JvXMs/giphy.gif" alt="MasterHead" width="100%" />
 
 
 <div align="center">
 
-<h1>Hey there <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" /> I'm <strong>Aamir</strong> 🦖</h1>
-<h3>Full Stack Developer | GoLang • React   </h3>
+<h1>Hey there <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" /> I'm <strong>Vithul</strong> 🐘</h1>
+<h3>Full Stack Developer | Python • React   </h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/aamir-sufiyan-n/" target="_blank">
+  <a href="https://www.linkedin.com/in/vithulraj-a-s/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" height="35"/>
   </a>
 </p>
@@ -25,7 +25,7 @@
 </p> 
 
  
-📫 Reach me anytime → **aamirsufiyan848@gmail.com**
+📫 Reach me anytime → **vithulrajas@gmail.com**
 
 ---
 
