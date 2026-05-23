@@ -1,20 +1,96 @@
-<img align="center" alt="Coding"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-<h1 align="center">Hi 👋, I'm Vithul</h1>
-<h3 align="center">Django| React | PostgreSQL | Django-REST-Framework</h3>
 
-- 💬 Ask me about **Django React Postgres DRF Python Javascript**
 
-- 📫 How to reach me **vithulrajas@gmail.com**
+<img src="https://cdn.dribbble.com/userupload/22007674/file/original-8edd3cfa1b2aed40d8272d9df59c44d2.gif" alt="MasterHead" width="100%" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vithulraj-a-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vithulraj-a-s/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/vithulrajas123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vithulrajas123/" height="30" width="40" /></a>
+
+<div align="center">
+
+<h1>Hey there <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" /> I'm <strong>Aamir</strong> 🦖</h1>
+<h3>Full Stack Developer | GoLang • React   </h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/aamir-sufiyan-n/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" height="35"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vithulraj-a-s&show_icons=true&locale=en&layout=compact" alt="vithulraj-a-s" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vithulraj-a-s&show_icons=true&locale=en" alt="vithulraj-a-s" /></p> -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aamir-sufiyan-n&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</p> 
+
+ 
+📫 Reach me anytime → **aamirsufiyan848@gmail.com**
+
+---
+
+<h2 align="center">🛠️ Technologies & Tools I Work With</h2>
+
+<table align="center">
+
+  <tr>
+    <td align="center"><img src="https://miro.medium.com/v2/resize:fit:500/1*lSUb1T4YW1td0UskwsGZ1w.gif" alt="Go" width="55"/><br><b>Go</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="55"/><br><b>Gin</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /><br><b>PostgreSQL</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="62"/><br><b>REST API</b></td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55"/><br><b>Postman</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="55"/><br><b>TailwindCSS</b></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" alt="GORM" width="55"/><br><b>GORM</b></td>
+    <td align="center"> <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="55"/><br><b>JWT</b</td>
+    <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /><br><b>Docker</b</td>
+  </tr>
+  
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="55"/><br><b>HTML5</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="55"/><br><b>CSS3</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65"/><br><b>JavaScript</b></td>
+     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /><br><b>Redis</b></td> 
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65"/><br><b>React</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65"/><br><b>Redux</b></td>
+    <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"alt="Notion" width="48"/><br><b>Notion</b></td>
+      <td align="center"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fiber/fiber-line.svg" />
+          <br><b>Fiber</b></td>  
+ </tr>
+
+ 
+</table>
+
+---
+
+<h2 align="center">🚀 About Me</h2>
+
+I’ve been diving deep into:
+- ⚙️ **Go (Golang)** with **Gin** for creating powerful APIs  
+- 🗄️ **PSQL** for database management and queries  
+- 🌐 **HTML, CSS, JavaScript** for clean and responsive UIs  
+- ⚛️ **ReactJS** for modern frontend development  
+- 🎨  **TailwindCSS** for styling with speed  
+- 🧠 **REST APIs** & **Postman** for testing and connecting front to back  
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashimhashi47&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hashimhashi47&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" /> 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimhashi47&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" alt="Top Languages" />
+</p>
+
+---
+
+<div align="center">
+
+**![Snake animation](https://github.com/hashimhashi47/hashimhashi47/blob/output/github-snake-dark.svg)**  
+
+<img src="https://komarev.com/ghpvc/?username=hashimhashi47&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
+
+</div>
