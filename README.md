@@ -66,7 +66,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 I’ve been diving deep into:
-- ⚙️ **Go (Golang)** with **Gin** for creating powerful APIs  
+- ⚙️ **Python ** with **django** for creating web applications  
 - 🗄️ **PSQL** for database management and queries  
 - 🌐 **HTML, CSS, JavaScript** for clean and responsive UIs  
 - ⚛️ **ReactJS** for modern frontend development  
