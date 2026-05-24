@@ -69,20 +69,17 @@ I’ve been diving deep into:
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vithulraj-a-s&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vithulraj-a-s&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" /> 
-</p>
+  <img 
+    src="https://streak-stats.demolab.com?user=vithulraj-a-s&theme=tokyonight&hide_border=true"
+    width="49%" 
+  />
 
+</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vithulraj-a-s&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vithulraj-a-s&layout=compact&theme=tokyonight&hide_border=true"
+    width="45%"
+  />
 </p>
-
 ---
 
-<div align="center">
-
-**![Snake animation](https://github.com/vithulraj-a-s/vithulraj-a-s/blob/output/github-snake-dark.svg)**  
-
-<img src="https://komarev.com/ghpvc/?username=vithulraj-a-s&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
-
-</div>
