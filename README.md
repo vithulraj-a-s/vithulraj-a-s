@@ -30,49 +30,92 @@
 ---
 
 <h2 align="center">🛠️ Technologies & Tools I Work With</h2>
-
 <table align="center">
+<tr>
+    <td align="center">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/>
+        <br><b>Python</b>
+    </td>
 
-  <!-- <tr> -->
-    <!-- <td align="center"><img src="https://miro.medium.com/v2/resize:fit:500/1*lSUb1T4YW1td0UskwsGZ1w.gif" alt="Go" width="55"/><br><b>Go</b></td> -->
-    <!-- <td align="center"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="55"/><br><b>Gin</b></td> -->
-    <!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /><br><b>PostgreSQL</b></td> -->
-    <!-- <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="62"/><br><b>REST API</b></td> -->
-    <!-- <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55"/><br><b>Postman</b></td> -->
-    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="55"/><br><b>TailwindCSS</b></td> -->
-    <!-- <td align="center"><img src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" alt="GORM" width="55"/><br><b>GORM</b></td> -->
-    <!-- <td align="center"> <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="55"/><br><b>JWT</b</td> -->
-    <!-- <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /><br><b>Docker</b</td> -->
-  <!-- </tr> -->
-  
-  <!-- <tr> -->
-    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="55"/><br><b>HTML5</b></td> -->
-    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="55"/><br><b>CSS3</b></td> -->
-    <!-- <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65"/><br><b>JavaScript</b></td> -->
-     <!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /><br><b>Redis</b></td>  -->
-    <!-- <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65"/><br><b>React</b></td> -->
-    <!-- <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65"/><br><b>Redux</b></td> -->
-    <!-- <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"alt="Notion" width="48"/><br><b>Notion</b></td> -->
-      <!-- <td align="center">  -->
-            <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fiber/fiber-line.svg" /> -->
-          <!-- <br><b>Fiber</b></td>   -->
- <!-- </tr> -->
- <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60"/><br><b>Python</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="55"/><br><b>Django</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" alt="DRF" width="55"/><br><b>DRF</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55"/><br><b>PostgreSQL</b></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60"/><br><b>React</b></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60"/><br><b>JavaScript</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="55"/><br><b>Redis</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="55"/><br><b>Docker</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="55"/><br><b>Nginx</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55"/><br><b>Git</b></td>
-    <!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="55"/><br><b>FastAPI</b></td> -->
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55"/><br><b>MongoDB</b></td>
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55"/>
+        <br><b>Django</b>
+    </td>
+
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="55"/>
+        <br><b>DRF</b>
+    </td>
+
+    <td align="center">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/>
+        <br><b>React</b>
+    </td>
+
+    <td align="center">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/>
+        <br><b>JavaScript</b>
+    </td>
+
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" width="55"/>
+        <br><b>HTML5</b>
+    </td>
+
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" width="55"/>
+        <br><b>CSS3</b>
+    </td>
+
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
+        <br><b>Tailwind</b>
+    </td>
 </tr>
 
- 
+
+<tr>
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
+        <br><b>PostgreSQL</b>
+    </td>
+
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
+        <br><b>MongoDB</b>
+    </td>
+
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55"/>
+        <br><b>Redis</b>
+    </td>
+
+    <td align="center">
+        <img src="https://jwt.io/img/pic_logo.svg" width="55"/>
+        <br><b>JWT</b>
+    </td>
+
+    <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55"/>
+        <br><b>Postman</b>
+    </td>
+
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
+        <br><b>Docker</b>
+    </td>
+
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55"/>
+        <br><b>Nginx</b>
+    </td>
+
+    <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+        <br><b>Git</b>
+    </td>
+</tr>
+
 </table>
 
 ---
